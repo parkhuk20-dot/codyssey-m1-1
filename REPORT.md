@@ -253,11 +253,15 @@
 ### 5.4 인터랙티브 대시보드
 
 기간·집계 단위·지표·계절을 바꿔가며 위 결과를 직접 확인할 수 있는 대시보드를 함께
-만들었다. 배포 URL은 다음과 같다.
+만들었다. 배포 URL은 두 곳에 올려두었다.
 
-**https://claude.ai/code/artifact/0df2fa95-d2fd-44ae-b31b-f06aba2ae0a8**
+**https://parkhuk20-dot.github.io/codyssey-m1-1/dashboard.html** — GitHub Pages.
+로그인이나 계정 없이 누구나 바로 열 수 있다. (권장)
 
-저장소의 `dashboard.html`을 브라우저로 열어도 동일하게 동작한다(데이터가 파일에
+**https://claude.ai/code/artifact/0df2fa95-d2fd-44ae-b31b-f06aba2ae0a8** — Claude
+Artifact. 동일한 대시보드지만 Claude 계정 로그인이 필요할 수 있다.
+
+저장소의 `dashboard.html`을 브라우저로 직접 열어도 동일하게 동작한다(데이터가 파일에
 포함되어 있어 서버가 필요 없다).
 
 ![대시보드 기본 화면](images/10_dashboard_light.png)

@@ -5,7 +5,8 @@
 어떻게 바뀌었는지 분석했다.
 
 **→ [분석 리포트 전문 (REPORT.md)](REPORT.md)**
-**→ [인터랙티브 대시보드 (배포 URL)](https://claude.ai/code/artifact/0df2fa95-d2fd-44ae-b31b-f06aba2ae0a8)**
+**→ [인터랙티브 대시보드 (GitHub Pages, 로그인 불필요)](https://parkhuk20-dot.github.io/codyssey-m1-1/dashboard.html)**
+**→ [인터랙티브 대시보드 (Claude Artifact)](https://claude.ai/code/artifact/0df2fa95-d2fd-44ae-b31b-f06aba2ae0a8)**
 
 ## 핵심 결과 세 줄
 
